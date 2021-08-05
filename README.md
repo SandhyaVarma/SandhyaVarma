@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development | python | ML
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on linkedin www.linkedin.com/in/sandhya-varma-17a6681ba
-- 📫 How to reach me 
+- 📫 How to reach me github.com/sandhyavarma
 
 <!---
 SandhyaVarma/SandhyaVarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
