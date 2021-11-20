@@ -7,6 +7,7 @@
 
  
 🛠  Languages and Tools
+
 Python JavaScript UI/UX
 HTML5 CSS Bootstrap 
 Nodejs Mongodb AdobeXD
